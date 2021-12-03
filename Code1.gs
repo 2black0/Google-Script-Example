@@ -18,6 +18,8 @@
  *              Support printing the selected areas as a pdf
  */
 
+// source https://xfanatical.com/blog/print-google-sheet-as-pdf-using-apps-script/#source-code
+
 // By default, PDFs are saved in your Drive Root folder
 // To save in the same folder as the spreadsheet, change the value to 'false' without the single quote pair
 // You must have EDIT permission to the same folder

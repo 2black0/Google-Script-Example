@@ -1,3 +1,5 @@
+  //source https://www.youtube.com/watch?v=r9uU_KwGgzQ
+  
   //let firstName = "Linda";
   //let lastName = "Smith";
   //let amount = "$123.00";
